@@ -1,0 +1,6 @@
+Flask==2.2.2
+flask-cors==3.0.10
+pandas==1.5.3
+scikit-learn==1.5.1
+numpy==1.23.5
+pickle5  # if using pickle features; otherwise remove
