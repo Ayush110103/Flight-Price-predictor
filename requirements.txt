@@ -4,3 +4,4 @@ pandas==1.5.3
 scikit-learn==1.5.1
 numpy==1.23.5
 pickle5  # if using pickle features; otherwise remove
+setuptools>=65.5.0
