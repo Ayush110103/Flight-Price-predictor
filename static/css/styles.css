@@ -1,16 +1,15 @@
+or/static/css/style.css */
 body {
-    background-color: #e1f4f3;
-    text-align: center;
+    background: linear-gradient(45deg, #f3f3f3, #d8e2dc);
 }
 
-.navbar {
-    background-color: #333333;
+.card {
+    border: none;
+    border-radius: 15px;
 }
 
-a {
-    color: #f1f9f9;
+footer.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
-
-a:hover {
-    color: #f0f0f0;
-  }
